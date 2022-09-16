@@ -1,0 +1,63 @@
+{ 
+    "posts":  [
+          {
+              "id": 1,
+              "name": "Banga Soup",
+              "packs": ["small", "medium", "large"],
+              "chews": ["goat meat", "lamb meat", "beef", "pork", "turkey", "chicken", "cat fish", "tilapia"],
+              "flavours": ["No pepper", "Mild pepper", "More pepper", "No salt, No pepper"],
+              "prices": [
+                  {
+                      "small": 2500,
+                      "medium": 5000,
+                      "large": 9000
+                  }
+              ],
+              "chef": [
+                  { "nom": "prepared by Chef Daniel" }
+              ],
+              "description":"Banga Soup is a special delicacy from the south-south. Palm oil soup cooked with the best of healthy spices."  
+          },
+          {
+              "id": 2,
+              "name": "Egusi Soup",
+              "packs": ["small", "medium", "large"],
+              "chews": ["goat meat", "lamb meat", "beef", "pork", "turkey", "chicken", "cat fish", "tilapia"],
+              "flavours": ["No pepper", "Mild pepper", "More pepper", "No salt, No pepper"],
+              "prices": [
+                  {
+                      "small": 2500,
+                      "medium": 5000,
+                      "large": 9000
+                  }
+              ],
+              "chef": [
+                  { "nom": "prepared by Chef Francesca" }
+              ],
+              "description":"Great soup for all occasions. Laced with tender vegetable leaves, it is a meal you won't get tired of ordering."
+          },
+          {
+              "id": 3,
+              "name": "Vegetable Soup",
+              "packs": ["small", "medium", "large"],
+              "chews": ["goat meat", "lamb meat", "beef", "pork", "turkey", "chicken", "cat fish", "tilapia"],
+              "flavours": ["No pepper", "Mild pepper", "More pepper", "No salt, No pepper"],
+              "prices": [
+                  {
+                      "small": 2500,
+                      "medium": 5000,
+                      "large": 9000
+                  }
+              ],
+              "chef": [
+                  { "nom": "prepared by Chef Ruth" }
+              ],
+              "description":"This is a Nigerian brand as it's cooked by all tribes in Nigeria with varrying styles and flavours. Nutritious and packed with necessary vitamins yet so tasty."
+          }
+          
+      ]
+  
+}
+
+
+
